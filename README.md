@@ -2,4 +2,4 @@
 - 👀 I’m interested in mobile app development 
 - 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate on a any mobile application development project
-- 📫 How to reach me kelvinmutuku044@gmail.com 
+- 📫 How to reach me mulonzikelvin@outlook.com
